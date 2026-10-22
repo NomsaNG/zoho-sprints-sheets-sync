@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "data": {
+    "ownerTeamIds": [],
+    "defaultPortalId": "",
+    "createTeamAllowed": true,
+    "myTeamId": "-1",
+    "baseURL": "https://sprints.zoho.com",
+    "portals": [
+      {
+        "teamName": "codeworks",
+        "isShowTeam": true,
+        "orgName": "codeworks",
+        "portalOwner": "911999478",
+        "type": 0,
+        "zsoid": "919475195"
+      }
+    ],
+    "userDisplayName": {
+      "911999478": "Nicholas Kohler"
+    },
+    "status": "success"
+  }
+}

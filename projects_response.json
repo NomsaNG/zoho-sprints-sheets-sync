@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "data": {
+    "next": false,
+    "projects": [
+      {
+        "endDate": "-1",
+        "isTimerAutoStop": false,
+        "projType": 1,
+        "groupId": "178933000000005330",
+        "fieldPerm_EndDate": true,
+        "addedVia": 0,
+        "isForceTimerEnabled": false,
+        "lastAccessedTime": "2026-10-19T12:50:29.851Z",
+        "isOverDue": false,
+        "diffDays": "",
+        "okrCount": 0,
+        "fieldPerm_Owner": true,
+        "defaultTabId": "-1",
+        "estimationType": 0,
+        "defaultTabURL": "",
+        "createdTime": "2026-04-14T07:15:28.749Z",
+        "kanbanBoardId": "",
+        "hasDelPermission": true,
+        "stageId": "178933000000005186",
+        "owner": "178933000000007030",
+        "isNtfnMuted": false,
+        "fieldPerm_StartDate": true,
+        "archivedOn": "",
+        "projName": "TouchPoint",
+        "projNo": "2",
+        "defaultTab": "backlog",
+        "favouriteType": 0,
+        "commentCount": 0,
+        "hasEditPermission": true,
+        "sequence": "1",
+        "backlogId": "178933000000009004",
+        "createdBy": "178933000000007030",
+        "profileId": "178933000000002018",
+        "tagCount": 0,
+        "projectId": "178933000000009002",
+        "currencyCode": "ZAR",
+        "fieldPerm_Group": true,
+        "startDate": "-1",
+        "status": 1
+      }
+    ],
+    "userDisplayName": {
+      "178933000000007030": "Johan Stassen"
+    },
+    "prefixObj": {
+      "178933000000009002": "CX"
+    },
+    "zsuserIdvsZUID": {
+      "178933000000007030": "847734455"
+    },
+    "status": "success"
+  }
+}

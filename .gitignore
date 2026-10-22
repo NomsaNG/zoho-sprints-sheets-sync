@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.json.key
+# Local Google Cloud service-account credentials
+vibe-code-nomsa-goba-8bad74b92a1c.json
